@@ -9,7 +9,7 @@ public class DemoController {
 
     @RequestMapping("test")
     public String test(){
-        return "SUCCESS";
+        return "SUCCESS1";
     }
 
 }
